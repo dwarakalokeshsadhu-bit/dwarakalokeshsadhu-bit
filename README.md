@@ -65,11 +65,11 @@ I am an Information Technology undergraduate from Hyderabad, India, currently bu
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dwarakalokeshsadhu-bit&show_icons=true&theme=default&hide_border=true" alt="Dwaraka Lokesh GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dwarakalokeshsadhu-bit" alt="Dwaraka Lokesh GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwarakalokeshsadhu-bit&theme=default&hide_border=true" alt="Dwaraka Lokesh GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com?user=dwarakalokeshsadhu-bit&theme=default&hide_border=true" alt="Dwaraka Lokesh GitHub streak stats" />
 </p>
 
 ---
@@ -77,7 +77,7 @@ I am an Information Technology undergraduate from Hyderabad, India, currently bu
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dwarakalokeshsadhu-bit&theme=react-dark&area=true" alt="GitHub activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dwarakalokeshsadhu-bit&theme=react-dark&area=true" alt="GitHub activity graph" />
 </p>
 
 ---
@@ -85,7 +85,7 @@ I am an Information Technology undergraduate from Hyderabad, India, currently bu
 ## 🌐 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwarakalokeshsadhu-bit&layout=compact&theme=default&hide_border=true" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dwarakalokeshsadhu-bit" alt="Most used languages" />
 </p>
 
 ---
