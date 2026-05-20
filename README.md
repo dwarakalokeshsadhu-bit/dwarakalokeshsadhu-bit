@@ -74,6 +74,14 @@ I am an Information Technology undergraduate from Hyderabad, India, currently bu
 
 ---
 
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=dwarakalokeshsadhu-bit&theme=react-dark&area=true" alt="GitHub activity graph" />
+</p>
+
+---
+
 ## 🌐 Most Used Languages
 
 <p align="center">
