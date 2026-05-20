@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Dwaraka Lokesh</h1>
+<h1 align="center">Hi 👋, I'm Dwaraka Lokesh</h1>
 <h3 align="center">B.Tech Information Technology Student | MERN Stack Learner | Java & DSA Enthusiast</h3>
 
 <p align="center">
@@ -15,13 +15,22 @@
 
 ---
 
-## Short Introduction
+## 🚀 About Me
 
 I am an Information Technology undergraduate from Hyderabad, India, currently building my skills in full-stack web development, backend systems, Java, DSA, and AI-based projects. I enjoy learning by building practical projects and improving my problem-solving ability step by step.
 
 ---
 
-## About Me
+## 💡 Current Focus
+
+- Building full-stack applications with MongoDB, Express.js, React, and Node.js.
+- Strengthening Data Structures and Algorithms using Java.
+- Learning backend API design, authentication, database integration, and deployment workflows.
+- Exploring AI-based project ideas and practical integrations.
+
+---
+
+## 🧠 About Me
 
 - Currently pursuing B.Tech in Information Technology.
 - Focused on MERN stack development, Java, DSA, and backend development.
@@ -31,16 +40,7 @@ I am an Information Technology undergraduate from Hyderabad, India, currently bu
 
 ---
 
-## Current Learning
-
-- Building full-stack applications with MongoDB, Express.js, React, and Node.js.
-- Strengthening Data Structures and Algorithms using Java.
-- Learning backend API design, authentication, database integration, and deployment workflows.
-- Exploring AI-based project ideas and practical integrations.
-
----
-
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -55,7 +55,7 @@ I am an Information Technology undergraduate from Hyderabad, India, currently bu
 
 ---
 
-## Tools I Use
+## 🧰 Tools I Use
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -65,7 +65,7 @@ I am an Information Technology undergraduate from Hyderabad, India, currently bu
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dwarakalokeshsadhu-bit&show_icons=true&theme=default&hide_border=true" alt="Dwaraka Lokesh GitHub stats" />
@@ -77,7 +77,7 @@ I am an Information Technology undergraduate from Hyderabad, India, currently bu
 
 ---
 
-## Most Used Languages
+## 🌐 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwarakalokeshsadhu-bit&layout=compact&theme=default&hide_border=true" alt="Most used languages" />
@@ -85,7 +85,7 @@ I am an Information Technology undergraduate from Hyderabad, India, currently bu
 
 ---
 
-## LeetCode Stats
+## 🏆 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/dwaraka_sadhu?theme=light&font=Inter&ext=heatmap" alt="LeetCode stats for dwaraka_sadhu" />
@@ -93,7 +93,7 @@ I am an Information Technology undergraduate from Hyderabad, India, currently bu
 
 ---
 
-## Connect With Me
+## 📫 Connect With Me
 
 <p align="left">
   <a href="mailto:dwarakalokeshsadhu@gmail.com">
@@ -109,7 +109,7 @@ I am an Information Technology undergraduate from Hyderabad, India, currently bu
 
 ---
 
-## Contribution Snake Animation
+## 🐍 Contribution Snake Animation
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/dwarakalokeshsadhu-bit/dwarakalokeshsadhu-bit/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
