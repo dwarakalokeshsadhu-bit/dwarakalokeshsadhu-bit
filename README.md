@@ -23,34 +23,31 @@ I am an Information Technology undergraduate from Hyderabad, India, currently bu
 
 ## 💡 Current Focus
 
-- Building full-stack applications with MongoDB, Express.js, React, and Node.js.
-- Strengthening Data Structures and Algorithms using Java.
-- Learning backend API design, authentication, database integration, and deployment workflows.
-- Exploring AI-based project ideas and practical integrations.
+- 🚀 Building full-stack applications with MongoDB, Express.js, React, and Node.js.
+- 📚 Strengthening Data Structures and Algorithms using Java.
+- 🔐 Learning backend API design, authentication, database integration, and deployment workflows.
+- 🤖 Exploring AI-based project ideas and practical integrations.
 
 ---
 
 ## 🧠 About Me
 
-- Currently pursuing B.Tech in Information Technology.
-- Focused on MERN stack development, Java, DSA, and backend development.
-- Interested in AI-based projects that solve practical problems.
-- Open to internship opportunities where I can learn, contribute, and work on real-world software.
-- Based in Hyderabad, India.
+- 🎓 Currently pursuing B.Tech in Information Technology.
+- 🌐 Focused on MERN stack development, Java, DSA, and backend development.
+- 💡 Interested in AI-based projects that solve practical problems.
+- 🤝 Open to internship opportunities where I can learn, contribute, and work on real-world software.
+- 📍 Based in Hyderabad, India.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,react,nodejs,express,mongodb&theme=light" alt="Tech stack icons" />
+</p>
+
+<p align="left">
+  Java · JavaScript · HTML · CSS · React · Node.js · Express · MongoDB
 </p>
 
 ---
