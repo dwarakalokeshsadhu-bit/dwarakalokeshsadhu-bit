@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/dwaraka-lokesh-sadhu-286627323/">
     <img src="https://img.shields.io/badge/LinkedIn-Dwaraka%20Lokesh-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://leetcode.com/u/dwaraka_sadhu/">
+  <a href="https://leetcode.com/u/dwaraka_sadhu27/">
     <img src="https://img.shields.io/badge/LeetCode-dwaraka__sadhu-orange?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
 </p>
